@@ -72,7 +72,7 @@ class UpdateItem extends Component {
             return (
               <Mutation mutation={UPDATE_ITEM_MUTATION} variables={this.state}>
                 {(updateItem, { loading, error }) => (
-                  <Form onSubmit={(e) => this.updateItem(e, updateItem)}>
+                  <FormStyles onSubmit={(e) => this.updateItem(e, updateItem)}>
                     <Error error={error} />
                     <fieldset disabled={loading} aria-busy={loading}>
                       <label htmlFor='title'>
@@ -116,7 +116,7 @@ class UpdateItem extends Component {
                         Sav{loading ? 'ing' : 'e'} Changes
                       </button>
                     </fieldset>
-                  </Form>
+                  </FormStyles>
                 )}
               </Mutation>
             );

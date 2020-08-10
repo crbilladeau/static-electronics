@@ -67,6 +67,7 @@ const SingleItemStyles = styled.div`
     line-height: 3rem;
   }
   p {
-    line-height: 2rem;
+    line-height: 2.5rem;
+    white-space: pre-line;
   }
 `;

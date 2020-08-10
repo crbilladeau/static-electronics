@@ -13,6 +13,10 @@ class Item extends Component {
   };
 
   render() {
+    const truncate = (str, n) => {
+      return str.length > n ? str.substr(0, n - 1) + '...' : str;
+    };
+
     const { item } = this.props;
     return (
       <ItemStyles>
@@ -23,7 +27,7 @@ class Item extends Component {
           <a>{item.title}</a>
         </ItemTitle>
         <PriceTag>{formatMoney(item.price)}</PriceTag>
-        <p>{item.description}</p>
+        <p>{truncate(item.description, 75)}</p>
         <div className='buttonList'>
           <Link
             href={{

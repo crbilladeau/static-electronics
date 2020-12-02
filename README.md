@@ -12,7 +12,7 @@
      <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/static.png?raw=true" alt="Watcher Screenshot" width="1000">
     <br />
   </p>
-  <h2 align="center"><a href="https://watcher-6ad27.web.app/">View Demo</a></h2>
+  <!-- <h2 align="center"><a href="https://watcher-6ad27.web.app/">View Demo</a></h2> -->
   <br />
 </p>
 

@@ -7,7 +7,7 @@
 
   <p align="center">
     A fullstack React e-commerce app mock-up for buying & selling electronics. Built with Apollo, GraphQL, Prisma, and NextJS.
-  <b>Still in development</b>
+  <br /><b>Still in development</b>
     <br />
     <br />
      <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/static.png?raw=true" alt="Watcher Screenshot" width="1000">

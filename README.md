@@ -49,7 +49,7 @@
 
 <div align="center">
    <div style="display: flex; align-items: flex-start;">
-     <video src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/static.mp4" />
+     <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/video.gif" />
   </div>
 </div>
 

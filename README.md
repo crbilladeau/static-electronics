@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/crbilladeau/static-electronics">
-    <img src="public/favicon-32x32.png" alt="Logo" width="32" height="32">
-  </a>
+
 
   <h2 align="center">Static Electronics</h3>
 

@@ -12,8 +12,6 @@
      <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/static.png?raw=true" alt="Watcher Screenshot" width="1000">
     <br />
   </p>
-  <!-- <h2 align="center"><a href="https://watcher-6ad27.web.app/">View Demo</a></h2> -->
-  <br />
 </p>
 
 
@@ -49,14 +47,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!--
 <div align="center">
    <div style="display: flex; align-items: flex-start;">
-     <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/watcher-mobile1.png?raw=true" alt="Static Mobile Screenshot" width="400">
-     <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/watcher-mobile2.png?raw=true" alt="Static Mobile Screenshot" width="400">
+     <video src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/static.mp4" />
   </div>
 </div>
--->
 
 A fake used electronics e-commerce website built with **React**. It features routing between pages with **Next.js**, database management of submitted electronics with **Prisma**, and data queries & mutations with **Apollo** and **GraphQL**.
 

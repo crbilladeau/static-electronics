@@ -54,7 +54,7 @@
   </div>
 </div>
 
-A fake used electronics e-commerce website built with **React**. It features routing between pages with **Next.js**, database management of submitted electronics with **Prisma**, and data queries & mutations with **Apollo** and **GraphQL**.
+A used electronics e-commerce website built with **React**. It features routing between pages with **Next.js**, database management of submitted electronics with **Prisma**, and data queries & mutations with **Apollo** and **GraphQL**.
 
 ### In Development
 

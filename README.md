@@ -6,7 +6,7 @@
   <h2 align="center">Static Electronics</h3>
 
   <p align="center">
-    A fullstack React e-commerce app mock-up for buying & selling electronics. Built with Apollo, GraphQL, Prisma, and NextJS.
+    A fullstack React e-commerce app template for buying & selling electronics. Built with Apollo, GraphQL, Prisma, and NextJS.
   <br /><b>Still in development</b>
     <br />
     <br />
